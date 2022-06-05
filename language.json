@@ -15,5 +15,5 @@
   "ok"okey":"ok bye 👋", 
   "whatisyourname?":"ABDULRAZAK JAMILU",
   "whatisyourname":"You're right with Abdulrazak Jamilu 😀"
-  
+ var colors = ["BLUE", "RED", "GREEN", "YELLOW", "WHITE", "BLACK", "SILVER", "GRAY" ]; 
 }
